@@ -1,0 +1,6 @@
+start video1
+start fade
+start dissolve
+stop fade
+stop video1
+start video2

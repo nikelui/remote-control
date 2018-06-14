@@ -1,0 +1,12 @@
+start video1
+start fade
+pause 2000
+stop fade
+stop video1
+start video2
+pause 1000
+stop video2
+start fade
+pause 1000
+stop fade
+start video7

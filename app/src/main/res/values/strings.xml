@@ -1,0 +1,29 @@
+<resources>
+    <!-- Main activity -->
+    <string name="app_name">RemoteControl</string>
+    <string name="sequence_1">Start first sequence</string>
+    <string name="sequence_2">Start second sequence</string>
+    <string name="sequence_3">Start third sequence</string>
+    <string name="admin_menu">Admin</string>
+
+    <!-- Login Activity -->
+    <string name="title_activity_admin_login">Sign in</string>
+    <string name="password_hint">Enter Password</string>
+    <string name="login_button">Login</string>
+    <string name="login_error">Error: invalid password</string>
+    <string name="pw">admin</string>
+
+    <!-- Admin Activity -->
+    <string name="title_activity_admin_activity">Configure</string>
+    <string name="default_IP_address">192.168.1.0</string>
+    <string name="IP_hint">IP address</string>
+    <string name="default_port">10001</string>
+    <string name="port_hint">Port</string>
+    <string name="edit_button1">Edit sequence 1</string>
+    <string name="edit_button2">Edit sequence 2</string>
+    <string name="edit_button3">Edit sequence 3</string>
+    <string name="instructions_title">Instructions list</string>
+    <string name="title_activity_edit_activity">Edit Commands</string>
+    <string name="save_menu">Save</string>
+
+</resources>

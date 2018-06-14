@@ -1,0 +1,7 @@
+start video5
+start fade
+pause 2000
+stop fade
+stop video5
+pause 500
+start video2
