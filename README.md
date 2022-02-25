@@ -1,4 +1,5 @@
 # Android Remote Control
+This Android Studio project was developed over the course of 2 days to learn android app development in java (for a job interview). As I have no more use for it, I am going to archive it. Down here are the original requirements.
 
 ## Scenario
 
